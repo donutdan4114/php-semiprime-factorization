@@ -1,5 +1,7 @@
 # PHP Semiprime Factorization
 
+> A semiprime is a natural number that is the product of exactly two prime numbers.
+
 [What is a semiprime?](https://en.wikipedia.org/wiki/Semiprime)
 
 ### Overview
